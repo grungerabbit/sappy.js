@@ -1,6 +1,8 @@
 # sappy.js
 ✨a jquery plugin that styles the sappy things you say - to make him happy ✨
 
+![sappy.js](https://pbs.twimg.com/media/CSB_-owWwAALQhu.png:large)
+
 ## Examples
 
 ### JS Fiddle (with current `sappy.js` served from Github)
